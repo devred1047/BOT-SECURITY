@@ -1,1 +1,1 @@
-# BOT-SECURITY
+bot
